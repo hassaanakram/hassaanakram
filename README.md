@@ -1,4 +1,4 @@
-<h2 style="margin:auto font:Lucida Handwriting">Welcome! I'm Hassaan</h2>
+<h2 style="margin:auto">Welcome! I'm Hassaan</h2>
 
 <br/>
 
