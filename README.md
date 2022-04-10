@@ -5,7 +5,11 @@
   <span>
   I'm an Electrical Engineering grad who has been teaching Machines to think, and then deploying them to Web.
   </span>
-  &nbsp &nbsp
+  &nbsp 
+  &nbsp
+  &nbsp
+  <br/>
+  <br/>
   
   **A few things about me:**
   - I work as a Freelancer
