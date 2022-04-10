@@ -1,9 +1,7 @@
-<h2 align="center>Hello, Nice to meet you. I'm Hassaan!</h2>
-
-<br/>
-
 <div align="center">
-  
+  <h2>Hello, Nice to meet you. I'm Hassaan!</h2>
+  <br/>
+
   <span>
   I'm an Electrical Engineering grad who has recently found out his love for making Machine Learning run on the Web.
   </span>
