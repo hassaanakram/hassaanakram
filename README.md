@@ -3,7 +3,7 @@
   <br/>
 
   <span>
-  **I'm an Electrical Engineering grad who has been teaching Machines to think, and then deploying them to Web.**
+  <h4>I'm an Electrical Engineering grad who has been teaching Machines to think, and then deploying them to Web.</h4>
   </span> 
   <br/>
   
