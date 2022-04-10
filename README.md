@@ -6,8 +6,8 @@
   I'm an Electrical Engineering grad who has been teaching Machines to think, and then deploying them to Web.
   </span>
   
-  <br/>
-  **A few things about me:**
+  
+  \n**A few things about me:**
   - I work as a Freelancer
   - I’m currently learning ReactJS.
   - I love photography! Visit my little gallery: [PhotoPortfolioi](https://www.instagram.com/_hassaanakram)
