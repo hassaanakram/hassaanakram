@@ -39,7 +39,7 @@
   <img height="24" src="https://api.iconify.design/logos/heroku-icon.svg?width=24&height=24">
   
   <br/>
-  <h3>Let's connect on LinkedIn :D</h3>
+  <h3>LinkedIn anyone? :D</h3>
   <a href="https://www.linkedin.com/in/hassaanakramha/">
   <img align="center" alt="Hassaan" width="24px" src="https://api.iconify.design/logos/linkedin-icon.svg?width=24&height=24" />
   </a>
