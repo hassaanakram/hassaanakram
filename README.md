@@ -4,13 +4,11 @@
 
   <span>
   **I'm an Electrical Engineering grad who has been teaching Machines to think, and then deploying them to Web.**
-  </span>
-  &nbsp 
- 
+  </span> 
   <br/>
   <br/>
   
-  <h4>A few things about me:</h4>
+  <h3>A few things about me:</h3>
   
   - I work as a Freelancer
   - I’m currently learning ReactJS.
