@@ -1,10 +1,10 @@
-<h2 style="margin:auto">Welcome! I'm Hassaan</h2>
+<h2 align="center>Hello, Nice to meet you. I'm Hassaan!</h2>
 
 <br/>
 
-<div style="margin:auto">
+<div align="center">
   
-  <span style="font:Georgi">
+  <span>
   I'm an Electrical Engineering grad who has recently found out his love for making Machine Learning run on the Web.
   </span>
 
