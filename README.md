@@ -3,34 +3,15 @@
   <br/>
 
   <span>
-  I'm an Electrical Engineering grad who has recently found out his love for making Machine Learning run on the Web.
+  I'm an Electrical Engineering grad who has been teaching Machines to think, and then deploying them to Web.
   </span>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
-
-  **Talking about Personal Stuffs:**
-
-  - 🔭 I’m currently Intern at CodeCrunch.
-  - 🌱 I’m currently learning Angular.
-  - 👯 Part of Developer Community.
-  - 💬 Ask me about anything , Would love to answer them.✌
-  - 📫 How to reach me: Any of the Social-Media Platform 
-  - ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
-  - 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
-  - ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
-
-
-
-  **Community**
-  - Google Developer Group Bengaluru
-  - HackClub NMIT
-  - Tensorflow Community Bengaluru
-  - Girlscript Foundation
-  - Coding Ninja
+  **A few things about me:**
+  - I work as a Freelancer
+  - I’m currently learning ReactJS.
+  - I love photography! Visit my little gallery: [PhotoPortfolioi](https://www.instagram.com/_hassaanakram)
 
   **Languages and Tools:**
-
 
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
