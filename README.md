@@ -28,7 +28,6 @@
   <img height="24" src="https://api.iconify.design/logos/react.svg?color=%23ff6f00&width=24">
   <img height="24" src="https://api.iconify.design/logos/html-5.svg?color=%23ff6f00&width=24">
   <img height="24" src="https://api.iconify.design/vscode-icons/file-type-node.svg?width=24">
-  <img height="24" src="https://api.iconify.design/vscode-icons/file-type-django.svg?width=24">
   <img height="24" src="https://api.iconify.design/logos/docker-icon.svg?width=24&height=24">
   
   <br/>
@@ -37,6 +36,7 @@
   <img height="24" src="https://api.iconify.design/logos/aws.svg?width=24&height=24">
   <img height="24" src="https://api.iconify.design/logos/airflow.svg?width=24&height=24">
   <img height="24" src="https://api.iconify.design/logos/heroku-icon.svg?width=24&height=24">
+  <img height="24" src="https://api.iconify.design/vscode-icons/file-type-django.svg?width=24">
   
   <br/>
   <h3>LinkedIn anyone? :D</h3>
