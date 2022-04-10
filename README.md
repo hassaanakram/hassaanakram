@@ -15,13 +15,18 @@
     - I love photography! Visit my little [Photo Portfolio](https://www.instagram.com/_hassaanakram)
   </div>
   <br/>
-  <h3>Stuff that I know:</h3>
+  <h3>Stuff that I use to teach machines:</h3>
 
+  <img height="24" src="https://api.iconify.design/vscode-icons/file-type-python.svg?color=%23ff6f00&width=24">
   <img height="24" src="https://api.iconify.design/simple-icons/tensorflow.svg?color=%23ff6f00">
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+  <img height="29" src="https://api.iconify.design/logos/opencv.svg?color=%23ff6f00&width=24">
+  
+  <br/>
+  <h3>Things that help me play with Web:</h3>
+
+  <img height="24" src="https://api.iconify.design/logos/react.svg?color=%23ff6f00&width=24">
+  <img height="24" src="https://api.iconify.design/logos/html-5.svg?color=%23ff6f00&width=24">
+  <img height="24" src="https://api.iconify.design/logos/opencv.svg?color=%23ff6f00&width=24">
 
   ![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
 
