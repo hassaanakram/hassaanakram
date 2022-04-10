@@ -5,14 +5,15 @@
   <span>
   <h4>I'm an Electrical Engineering grad who has been teaching Machines to think, and then deploying them to Web.</h4>
   </span> 
-  <br/>
   
   <h3>A few things about me:</h3>
   
-  <div align="right">
-    - I work as a Freelancer
-    - I’m currently learning ReactJS.
-    - I love photography! Visit my little ![Photo Portfolio](https://www.instagram.com/_hassaanakram)
+  <div align="center">
+    <ul>
+      <li>I work as a Freelancer</li>
+      <li>I’m currently learning ReactJS</li>
+    <li>I love photography! Visit my little <a href="https://www.instagram.com/_hassaanakram">Gallery</a></li>
+    </ul>
   </div>
   <br/>
   <h3>Stuff that I use to teach machines:</h3>
@@ -29,7 +30,14 @@
   <img height="24" src="https://api.iconify.design/vscode-icons/file-type-node.svg?width=24">
   <img height="24" src="https://api.iconify.design/vscode-icons/file-type-django.svg?width=24">
   <img height="24" src="https://api.iconify.design/logos/docker-icon.svg?width=24&height=24">
+  
+  <br/>
+  <h3>What I am Learning:</h3>
 
+  <img height="24" src="https://api.iconify.design/logos/aws.svg?width=24&height=24">
+  <img height="24" src="https://api.iconify.design/logos/airflow.svg?width=24&height=24">
+  <img height="24" src="https://api.iconify.design/logos/heroku-icon.svg?width=24&height=24">
+  
   <br/>
   <h3>Let's connect on LinkedIn :D</h3>
   <a href="https://www.linkedin.com/in/hassaanakramha/">
