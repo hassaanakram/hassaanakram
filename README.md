@@ -3,15 +3,15 @@
   <br/>
 
   <span>
-  <h4>I'm an Electrical Engineering grad who has been teaching Machines to think, and then deploying them to Web.</h4>
+  <h4>I'm an Electrical Engineering grad who has been doing some fun stuff with machines :D</h4>
   </span> 
   
   <h3>A few things about me:</h3>
   
   <div align="center">
     <ul>
-      <li>I work as a Freelancer</li>
-      <li>I’m currently learning ReactJS</li>
+      <li>I'm working with a StealthStartup</li>
+      <li>Currently learning container orchestration and DevOps</li>
     <li>I love photography! Visit my little <a href="https://www.instagram.com/_hassaanakram">Gallery</a></li>
     </ul>
   </div>
@@ -27,16 +27,15 @@
 
   <img height="24" src="https://api.iconify.design/logos/react.svg?color=%23ff6f00&width=24">
   <img height="24" src="https://api.iconify.design/logos/html-5.svg?color=%23ff6f00&width=24">
-  <img height="24" src="https://api.iconify.design/vscode-icons/file-type-node.svg?width=24">
+  <img height="24" width="24" src="https://api.iconify.design/vscode-icons/file-type-go.svg?width=24">
   <img height="24" src="https://api.iconify.design/logos/docker-icon.svg?width=24&height=24">
   
   <br/>
   <h3>What I am Learning:</h3>
-
+  
   <img height="24" src="https://api.iconify.design/logos/aws.svg?width=24&height=24">
-  <img height="24" src="https://api.iconify.design/logos/airflow.svg?width=24&height=24">
-  <img height="24" src="https://api.iconify.design/logos/heroku-icon.svg?width=24&height=24">
-  <img height="24" src="https://api.iconify.design/vscode-icons/file-type-django.svg?width=24">
+  <img height="24" src="https://api.iconify.design/logos/kubernetes.svg?width=24">
+  <img height="24" src="https://api.iconify.design/logos/github-actions.svg?width=24">
   
   <br/>
   <h3>LinkedIn anyone? :D</h3>
