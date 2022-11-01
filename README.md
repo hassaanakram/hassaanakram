@@ -3,7 +3,7 @@
   <br/>
 
   <span>
-  <h4>I'm an Electrical Engineering grad who has been doing some fun stuff with machines :D</h4>
+  <h4>Working as a SE in a Stealth Startup to figure out my way around k8s and microservices.</h4>
   </span> 
   
   <h3>A few things about me:</h3>
