@@ -29,19 +29,10 @@
   <img height="24" src="https://api.iconify.design/logos/html-5.svg?color=%23ff6f00&width=24">
   <img height="24" width="24" src="https://api.iconify.design/vscode-icons/file-type-go.svg?width=24">
   <img height="24" src="https://api.iconify.design/logos/docker-icon.svg?width=24&height=24">
-  
-  <br/>
-  <h3>What I am Learning:</h3>
-  
   <img height="24" src="https://api.iconify.design/logos/aws.svg?width=24&height=24">
   <img height="24" src="https://api.iconify.design/logos/kubernetes.svg?width=24">
-  <img height="24" src="https://api.iconify.design/logos/github-actions.svg?width=24">
-  
+
   <br/>
-  <h3>LinkedIn anyone? :D</h3>
-  <a href="https://www.linkedin.com/in/hassaanakramha/">
-  <img align="center" alt="Hassaan" width="24px" src="https://api.iconify.design/logos/linkedin-icon.svg?width=24&height=24" />
-  </a>
   
 
   </div>
